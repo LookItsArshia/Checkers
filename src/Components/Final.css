@@ -1,0 +1,14 @@
+.game{
+
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  margin-top:10px;
+  }
+  
+.openSpace{
+  margin: -14px;
+  width: 70px;
+  height: 70px;
+  background: pink;
+}
